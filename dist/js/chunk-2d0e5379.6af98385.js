@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5379"],{9419:function(n,e,c){"use strict";c.r(e);var t=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("div",[c("h1",[n._v("个人中心")]),c("TabBar")],1)},u=[],a=(c("d3b7"),function(){return c.e("chunk-45e41c3a").then(c.bind(null,"0311"))}),r={components:{TabBar:a}},o=r,i=c("2877"),l=Object(i["a"])(o,t,u,!1,null,"3bf2ccf0",null);e["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0e5379.6af98385.js.map
